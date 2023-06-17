@@ -1,7 +1,9 @@
-maintainers:
+originators: 
  - evilsocket
  - caquino
  - justin-p
+maintainers:
+ - jurgden
  
 features:
  - comments
